@@ -58,7 +58,7 @@ You need to have :
 
 1. Clone the repo :
    ```sh
-   git clone git@github.com:aamoyel/nginx-ingress-controller.git && cd nginx-ingress-controller
+   git clone https://github.com/aamoyel/nginx-ingress-controller.git && cd nginx-ingress-controller
    ```
 2. Change loadBalancerIP in service-patch.yml
 3. Deploy the project on your cluster
