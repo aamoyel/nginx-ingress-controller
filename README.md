@@ -27,7 +27,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 This project allows you to deploy the [nginx-ingress-controller](https://kubernetes.github.io/ingress-nginx/) on Kubernetes with Kustomize binary.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -45,8 +44,6 @@ This project allows you to deploy the [nginx-ingress-controller](https://kuberne
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up this project on your kubernetes cluster.
-
 ### Prerequisites
 
 You need to have :
@@ -55,7 +52,6 @@ You need to have :
 * MetalLB installed in your cluster
 
 ### Installation
-
 1. Clone the repo :
    ```sh
    git clone https://github.com/aamoyel/nginx-ingress-controller.git && cd nginx-ingress-controller
